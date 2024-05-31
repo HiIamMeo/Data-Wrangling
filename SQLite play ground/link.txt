@@ -1,0 +1,2 @@
+Need to link the Python file to jupyter notebook
+jupytext --set-formats ipynb,py:percent [filename].py
